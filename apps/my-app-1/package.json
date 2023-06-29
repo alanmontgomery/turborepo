@@ -13,7 +13,6 @@
     "tailwindconfig": "*"
   },
   "devDependencies": {
-    "eslint-config-custom": "*",
     "tsconfig": "*"
   }
 }
