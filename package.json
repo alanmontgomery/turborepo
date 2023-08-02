@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@turbo/gen": "^1.10.7",
-    "turbo": "^1.10.7"
+    "turbo": "^1.10.12"
   },
   "name": "turborepo",
   "packageManager": "npm@9.6.4",
